@@ -39,4 +39,3 @@ if st.button('Predict Porosity'):
 
 # Running the app
 if __name__=='__main__':
-   
