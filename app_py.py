@@ -38,7 +38,7 @@ def main():
     # Button to make prediction
     if st.button('Predict Porosity'):
         # Create an array from the input values
-        input_data = np.array([[density, porosity_effective, vshale, delta, gamma, epsilon]])
+        input_data = np.array([[density, vshale, delta, gamma, epsilon]])
 
         # Predict the porosity
         prediction = model.predict(input_data)
