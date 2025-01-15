@@ -30,7 +30,6 @@ def main():
     # User inputs for the features
     st.header('Please input the values for the following parameters:')
     density = st.number_input('Density')
-    porosity_effective = st.number_input('Porosity Effective')
     vshale = st.number_input('Vshale')
     delta = st.number_input('Delta')
     gamma = st.number_input('Gamma')
