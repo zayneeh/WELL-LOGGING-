@@ -14,6 +14,12 @@ This model integrates geological and geophysical data to improve the prediction 
 
 The datasets utilized are sourced from the open SEG (Society of Exploration Geophysicists) resource library, focusing on capturing subtle variations that are critical for accurate reservoir characterization.
 
+## Contributors
+
+A special thanks to this person who  contributed to this project:
+
+- [@CodeKage25](https://github.com/CodeKage25)
+
 ## Getting Started
 
 ### Prerequisites
@@ -32,10 +38,4 @@ To set up the project environment:
 ```bash
 git clone https://github.com//zayneeh/WELL-LOGGING.git
 cd WELL-LOGGING
-
-## Contributors
-
-A special thanks to this person who  contributed to this project:
-
-- [@CodeKage25](https://github.com/CodeKage25)
 
